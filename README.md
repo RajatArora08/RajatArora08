@@ -1,7 +1,6 @@
 ## Hi! I am Rajat 👋
 
-Software Engineer based out of :round_pushpin: San Francisco, USA 
-
+Software Engineer based out of San Francisco :round_pushpin:
 
 #### Current
 - :telescope: Staff Software Engineer @ [Intercontinental Exchange](https://www.icemortgagetechnology.com) (Yep! Owners of NYSE)
