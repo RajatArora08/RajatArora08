@@ -1,4 +1,7 @@
-### Hi there 👋
+### Rajat Arora
+
+[![Linkedin Badge](https://img.shields.io/badge/-Rajat%20Arora-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajatar08/)](https://www.linkedin.com/in/rajatar08)
+[![Twitter Badge](https://img.shields.io/badge/-@digital_nomad8-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=digital_nomad8 "Follow on Twitter")
 
 <!--
 **RajatArora08/RajatArora08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
