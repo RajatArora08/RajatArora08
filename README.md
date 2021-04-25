@@ -1,11 +1,13 @@
 ## Hi! I am Rajat 👋
 
-Working as a Staff Software Engineer based out of San Francisco, working @ [Intercontinental Exchange](https://www.icemortgagetechnology.com) (Yep! Owners of NYSE)
+Software Engineer based out of San Francisco :round_pushpin:
 
 
 #### Current
-- :telescope: Working as a Staff Software Engineer @ [Intercontinental Exchange](https://www.icemortgagetechnology.com) (Yep! Owners of NYSE)
-- :man_technologist: Building a highly scalable and distributed platform for mortgage lenders and partners. Check it out here: [Encompass Partner Connect](https://docs.partnerconnect.elliemae.com/partnerconnect)
+- :telescope: Staff Software Engineer @ [Intercontinental Exchange](https://www.icemortgagetechnology.com) (Yep! Owners of NYSE)
+- :man_technologist: Building a highly scalable and distributed platform for mortgage lenders and partners. 
+- :star2: Check it out here: [Encompass Partner Connect](https://docs.partnerconnect.elliemae.com/partnerconnect)
+- :rocket: 
 
 
 #### Bio
