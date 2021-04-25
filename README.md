@@ -18,3 +18,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+ 
+ <br/>
+ <br/>
+ 
+![Profile Views](https://komarev.com/ghpvc/?username=rajatarora08&color=blue)
