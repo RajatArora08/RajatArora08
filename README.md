@@ -1,6 +1,6 @@
 ## Hi! I am Rajat 👋
 
-Software Engineer based out of San Francisco :round_pushpin:
+Software Engineer based out of :round_pushpin: San Francisco, USA 
 
 
 #### Current
