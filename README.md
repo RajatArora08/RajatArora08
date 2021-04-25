@@ -11,8 +11,8 @@ Software Engineer based out of San Francisco :round_pushpin:
 
 #### Bio
 
-- :mortar_board: Masters in Computer Science @ San Fransciso State University
-- 
+- :mortar_board: Masters in Computer Science from San Fransciso State University, USA
+- :vulcan_salute: Previously worked at: [Open Message](https://openmessage.io), [Tata Consultancy Services](https://www.tcs.com)
 
 <!--
 **RajatArora08/RajatArora08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
