@@ -5,9 +5,14 @@ Software Engineer based out of San Francisco :round_pushpin:
 
 #### Current
 - :telescope: Staff Software Engineer @ [Intercontinental Exchange](https://www.icemortgagetechnology.com) (Yep! Owners of NYSE)
-- :man_technologist: Building a highly scalable and distributed platform for mortgage lenders and partners
+- :rocket: Building a highly scalable and distributed platform for mortgage lenders and partners
 - :star2: Check it out here: [Encompass Partner Connect](https://docs.partnerconnect.elliemae.com/partnerconnect)
-- :rocket: Tech stack: Java (Spring-boot), Python, AWS, Terraform, PostgreSQL
+- :man_technologist: Tech stack: Java (Spring-boot), Python, AWS, Terraform, PostgreSQL
+
+#### Bio
+
+- :mortar_board: Masters in Computer Science @ San Fransciso State University
+- 
 
 <!--
 **RajatArora08/RajatArora08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
