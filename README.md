@@ -1,4 +1,4 @@
-### Rajat Arora
+### Hi! I am Rajat 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-Rajat%20Arora-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajatar08/)](https://www.linkedin.com/in/rajatar08)
 [![Twitter Badge](https://img.shields.io/badge/-@digital_nomad8-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=digital_nomad8 "Follow on Twitter")
