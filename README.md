@@ -3,7 +3,7 @@
 Software Engineer based out of San Francisco :round_pushpin:
 
 #### Current
-- :telescope: Senior Software Engineer Tweep @ [Twitter](https://www.twitter.com) 
+- :telescope: Senior Software Engineer @ [Twitter](https://www.twitter.com) 
 - :rocket: Working on improving Twitter content health
 - :man_technologist: Tech stack: Scala, Python, AWS, Terraform
 
