@@ -12,7 +12,7 @@ Software Engineer based out of San Francisco :round_pushpin:
 - :mortar_board: Masters in Computer Science from San Fransciso State University, USA
 - :vulcan_salute: Previously worked at: 
     - [Twitter](https://www.twitter.com)
-    - [Intercontinental Exchange](https://www.icemortgagetechnology.com) (Owners of NYSE)
+    - [Intercontinental Exchange](https://www.icemortgagetechnology.com) | Owners of NYSE | Formerly known as Ellie Mae | Aka, ICE Mortgage Technology
     - [Open Message](https://openmessage.io)
     - [Tata Consultancy Services](https://www.tcs.com)
 
