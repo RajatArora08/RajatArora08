@@ -4,7 +4,7 @@ Software Engineer based out of San Francisco :round_pushpin:
 
 #### Current
 - :telescope: Staff Software Engineer @ [Ripple](https://ripple.com/)
-- :rocket: Building Internet of Value - [RippleX](https://github.com/xpring-eng)
+- :rocket: Building [RLUSD]([https://github.com/xpring-eng](https://ripple.com/solutions/stablecoin/)
 - :man_technologist: Tech stack: Java
 
 #### Bio
